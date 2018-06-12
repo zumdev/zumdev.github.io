@@ -57,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="630">
-              <caret line="42" column="14" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="42" selection-end-column="14" />
+              <caret line="42" column="10" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="42" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -249,12 +249,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528811247750</updated>
-      <workItem from="1528811249174" duration="425000" />
+      <workItem from="1528811249174" duration="511000" />
     </task>
+    <task id="LOCAL-00001" summary="- post layout 변경">
+      <created>1528811706843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528811706843</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="425000" />
+    <option name="totallyTimeSpent" value="511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -297,6 +305,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- post layout 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="- post layout 변경" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -338,7 +350,7 @@
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="42" column="14" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="42" selection-end-column="14" />
+          <caret line="42" column="10" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="42" selection-end-column="10" />
           <folding />
         </state>
       </provider>
