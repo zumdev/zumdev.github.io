@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: redirect
 title: 수습기간 동안 파일럿 프로젝트를 진행하며 느낀점
 subtitle: 개발자로 첫 발을 내딛으며.
 category: redirect
