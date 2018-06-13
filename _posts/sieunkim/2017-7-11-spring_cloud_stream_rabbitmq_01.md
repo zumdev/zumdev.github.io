@@ -9,6 +9,6 @@ tag: [spring,cloud,rabbitmq,microservices]
 ---
 
 <script>
-    location.href='https://zumdev.github.io/spring_cloud_stream_rabbitmq_01/';
+    location.href='https://zuminternet.github.io/spring_cloud_stream_rabbitmq_01/';
 </script>
 
