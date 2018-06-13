@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/_posts/yjinzum/2017-07-04-OAuth2-Social.md" line="10" mnemonic="1" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f0fbdc05-6c9e-41ee-bdbe-412d8272739f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/sieunkim/2017-7-11-spring_cloud_stream_rabbitmq_01.md" afterPath="$PROJECT_DIR$/_posts/sieunkim/2017-7-11-spring_cloud_stream_rabbitmq_01.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/yjinzum/2016-10-26-ZUM-Pilot.md" afterPath="$PROJECT_DIR$/_posts/yjinzum/2016-10-26-ZUM-Pilot.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/yjinzum/2017-03-22-Coffee-ES6.md" afterPath="$PROJECT_DIR$/_posts/yjinzum/2017-03-22-Coffee-ES6.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/yjinzum/2017-07-04-OAuth2-Social.md" afterPath="$PROJECT_DIR$/_posts/yjinzum/2017-07-04-OAuth2-Social.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,12 +73,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-7-11-spring_cloud_stream_rabbitmq_01.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-7-11-spring_cloud_stream_rabbitmq_01.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/sieunkim/2017-7-11-spring_cloud_stream_rabbitmq_01.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="81" lean-forward="false" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -98,8 +103,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/sieunkim/2017-7-12-spring_cloud_stream_rabbitmq_02.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -111,8 +116,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/yjinzum/2017-07-04-OAuth2-Social.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -124,37 +129,21 @@
         <entry file="file://$PROJECT_DIR$/_posts/yjinzum/2017-03-22-Coffee-ES6.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1725">
-                <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-                <folding>
-                  <marker date="1528856728000" expanded="true" signature="2182:3155" ph="{...}" />
-                  <marker date="1528856728000" expanded="true" signature="2203:2901" ph="{...}" />
-                  <marker date="1528856728000" expanded="true" signature="2222:2895" ph="[...]" />
-                  <marker date="1528856728000" expanded="true" signature="2236:2458" ph="{&quot;loader&quot;: 'babel'...}" />
-                  <marker date="1528856728000" expanded="true" signature="2385:2444" ph="{...}" />
-                  <marker date="1528856728000" expanded="true" signature="2472:2717" ph="{...}" />
-                  <marker date="1528856728000" expanded="true" signature="2563:2702" ph="{&quot;fallbackLoader&quot;: &quot;style-loader&quot;...}" />
-                  <marker date="1528856728000" expanded="true" signature="2731:2885" ph="{&quot;loader&quot;: 'file-loader?name=images/[name].[ext]&amp;mimeType=image/[ext]&amp;limit=100000'...}" />
-                  <marker date="1528856728000" expanded="true" signature="2916:3153" ph="[...]" />
-                  <marker date="1528856728000" expanded="true" signature="3040:3146" ph="{&quot;name&quot;: &quot;common&quot;...}" />
-                  <marker date="1528856728000" expanded="true" signature="3177:3343" ph="{...}" />
-                  <marker date="1528856728000" expanded="true" signature="3192:3341" ph="[...]" />
-                  <marker date="1528856728000" expanded="true" signature="3238:3289" ph="{...}" />
-                  <marker date="1528856728000" expanded="true" signature="3381:3437" ph="{...}" />
-                  <marker date="1528856728000" expanded="true" signature="3443:3524" ph="{...}" />
-                </folding>
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="9" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-10-26-ZUM-Pilot.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2016-10-26-ZUM-Pilot.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/yjinzum/2016-10-26-ZUM-Pilot.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -186,6 +175,9 @@
         <option value="$PROJECT_DIR$/_posts/sieunkim/2017-7-2-portaldevteam2017.md" />
         <option value="$PROJECT_DIR$/_posts/sieunkim/2017-7-12-spring_cloud_stream_rabbitmq_02.md" />
         <option value="$PROJECT_DIR$/_posts/sieunkim/2017-7-11-spring_cloud_stream_rabbitmq_01.md" />
+        <option value="$PROJECT_DIR$/_posts/yjinzum/2017-07-04-OAuth2-Social.md" />
+        <option value="$PROJECT_DIR$/_posts/yjinzum/2017-03-22-Coffee-ES6.md" />
+        <option value="$PROJECT_DIR$/_posts/yjinzum/2016-10-26-ZUM-Pilot.md" />
       </list>
     </option>
   </component>
@@ -593,11 +585,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528857020596</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="- 첫글을 남기면 페이지 리다이렉션">
+      <created>1528857116536</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1528857116536</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4287000" />
+    <option name="totallyTimeSpent" value="4594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -877,60 +876,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/yjinzum/2017-03-22-Coffee-ES6.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1725">
-            <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-            <folding>
-              <marker date="1528856728000" expanded="true" signature="2182:3155" ph="{...}" />
-              <marker date="1528856728000" expanded="true" signature="2203:2901" ph="{...}" />
-              <marker date="1528856728000" expanded="true" signature="2222:2895" ph="[...]" />
-              <marker date="1528856728000" expanded="true" signature="2236:2458" ph="{&quot;loader&quot;: 'babel'...}" />
-              <marker date="1528856728000" expanded="true" signature="2385:2444" ph="{...}" />
-              <marker date="1528856728000" expanded="true" signature="2472:2717" ph="{...}" />
-              <marker date="1528856728000" expanded="true" signature="2563:2702" ph="{&quot;fallbackLoader&quot;: &quot;style-loader&quot;...}" />
-              <marker date="1528856728000" expanded="true" signature="2731:2885" ph="{&quot;loader&quot;: 'file-loader?name=images/[name].[ext]&amp;mimeType=image/[ext]&amp;limit=100000'...}" />
-              <marker date="1528856728000" expanded="true" signature="2916:3153" ph="[...]" />
-              <marker date="1528856728000" expanded="true" signature="3040:3146" ph="{&quot;name&quot;: &quot;common&quot;...}" />
-              <marker date="1528856728000" expanded="true" signature="3177:3343" ph="{...}" />
-              <marker date="1528856728000" expanded="true" signature="3192:3341" ph="[...]" />
-              <marker date="1528856728000" expanded="true" signature="3238:3289" ph="{...}" />
-              <marker date="1528856728000" expanded="true" signature="3381:3437" ph="{...}" />
-              <marker date="1528856728000" expanded="true" signature="3443:3524" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/yjinzum/2016-10-26-ZUM-Pilot.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/sieunkim/2017-2-1-portal201701.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1530">
             <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/yjinzum/2017-07-04-OAuth2-Social.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />
@@ -948,22 +898,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/sieunkim/2017-7-12-spring_cloud_stream_rabbitmq_02.md">
+    <entry file="file://$PROJECT_DIR$/_posts/sieunkim/2017-7-11-spring_cloud_stream_rabbitmq_01.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/sieunkim/2017-7-11-spring_cloud_stream_rabbitmq_01.md">
+    <entry file="file://$PROJECT_DIR$/_posts/sieunkim/2017-7-12-spring_cloud_stream_rabbitmq_02.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="81" lean-forward="false" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/yjinzum/2017-07-04-OAuth2-Social.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/yjinzum/2017-03-22-Coffee-ES6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/yjinzum/2016-10-26-ZUM-Pilot.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
