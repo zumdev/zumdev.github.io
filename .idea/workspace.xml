@@ -7,8 +7,6 @@
     <list default="true" id="f0fbdc05-6c9e-41ee-bdbe-412d8272739f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/_posts/jeonghoon/2017-02-24-ZUM-Pilot-jeonghoon.md" afterPath="$PROJECT_DIR$/_posts/jeonghoon/2017-02-24-ZUM-Pilot-jeonghoon.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/yjinzum/2016-10-26-ZUM-Pilot.md" afterPath="$PROJECT_DIR$/_posts/yjinzum/2016-10-26-ZUM-Pilot.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/yjinzum/2017-03-22-Coffee-ES6.md" afterPath="$PROJECT_DIR$/_posts/yjinzum/2017-03-22-Coffee-ES6.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,8 +73,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/jeonghoon/2017-02-24-ZUM-Pilot-jeonghoon.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="67" lean-forward="false" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -606,11 +604,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528863384762</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="- 첫글을 남기면 페이지 리다이렉션">
+      <created>1528865613208</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1528865613208</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5131000" />
+    <option name="totallyTimeSpent" value="5192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -970,8 +975,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/jeonghoon/2017-02-24-ZUM-Pilot-jeonghoon.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="67" lean-forward="false" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
             <folding />
           </first_editor>
           <second_editor />
