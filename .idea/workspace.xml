@@ -6,6 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="f0fbdc05-6c9e-41ee-bdbe-412d8272739f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/kingbbode/2016-10-13-TEAMUP-BOT-START.md" afterPath="$PROJECT_DIR$/_posts/kingbbode/2016-10-13-TEAMUP-BOT-START.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/kingbbode/2016-10-17-TEAMUP-BOT-TIP.md" afterPath="$PROJECT_DIR$/_posts/kingbbode/2016-10-17-TEAMUP-BOT-TIP.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-1.md" afterPath="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-1.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-2.md" afterPath="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-2.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-3.md" afterPath="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-3.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-4.md" afterPath="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-4.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-5.md" afterPath="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-5.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/kingbbode/2017-05-10-JENKINS-BUILD.md" afterPath="$PROJECT_DIR$/_posts/kingbbode/2017-05-10-JENKINS-BUILD.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/kingbbode/2017-06-25-JOOQ.md" afterPath="$PROJECT_DIR$/_posts/kingbbode/2017-06-25-JOOQ.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/kingbbode/2017-07-04-NEXUS-3XX-MAVEN-NPM.md" afterPath="$PROJECT_DIR$/_posts/kingbbode/2017-07-04-NEXUS-3XX-MAVEN-NPM.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,84 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2017-2-1-portal201701.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/sieunkim/2017-2-1-portal201701.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1530">
-                <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-10-26-talk_1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/zumgu/2016-10-26-talk_1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="900">
-                <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-7-2-portaldevteam2017.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/sieunkim/2017-7-2-portaldevteam2017.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="16" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-7-11-spring_cloud_stream_rabbitmq_01.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/sieunkim/2017-7-11-spring_cloud_stream_rabbitmq_01.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="16" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-02-24-ZUM-Pilot-jeonghoon.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/jeonghoon/2017-02-24-ZUM-Pilot-jeonghoon.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.PNG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/2016_12_26_ryudung_pilot/1.PNG">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-10-12-first.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-10-12-first.md">
+      <file leaf-file-name="2016-10-17-TEAMUP-BOT-TIP.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2016-10-17-TEAMUP-BOT-TIP.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="150">
-                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="9" />
+                <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -101,12 +39,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-27-ZUM-Pilot-youngwoo.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/joeylee/2017-10-27-ZUM-Pilot-youngwoo.md">
+      <file leaf-file-name="2017-02-22-BUG-TRACKING-1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="66" lean-forward="false" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -114,12 +52,90 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-11-08-NGINX-CACHE-PROBLEM.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/jojoldu/2016-11-08-NGINX-CACHE-PROBLEM.md">
+      <file leaf-file-name="2017-02-22-BUG-TRACKING-2.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-22-BUG-TRACKING-3.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-3.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-22-BUG-TRACKING-4.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-4.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-22-BUG-TRACKING-5.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-5.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-05-10-JENKINS-BUILD.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-05-10-JENKINS-BUILD.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-06-25-JOOQ.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-06-25-JOOQ.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-07-04-NEXUS-3XX-MAVEN-NPM.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-07-04-NEXUS-3XX-MAVEN-NPM.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="69" lean-forward="false" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -131,8 +147,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/ryudung/2017-01-06--ZUM-Pilot-ryudung.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="9" />
                 <folding>
                   <marker date="1528868210000" expanded="true" signature="4:12" ph="layout: redirect&#10;title...발,신입]" />
                 </folding>
@@ -173,6 +189,16 @@
         <option value="$PROJECT_DIR$/_posts/jojoldu/2016-11-08-NGINX-CACHE-PROBLEM.md" />
         <option value="$PROJECT_DIR$/_posts/jeonghoon/2017-02-24-ZUM-Pilot-jeonghoon.md" />
         <option value="$PROJECT_DIR$/_posts/ryudung/2017-01-06--ZUM-Pilot-ryudung.md" />
+        <option value="$PROJECT_DIR$/_posts/kingbbode/2016-10-13-TEAMUP-BOT-START.md" />
+        <option value="$PROJECT_DIR$/_posts/kingbbode/2016-10-17-TEAMUP-BOT-TIP.md" />
+        <option value="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-1.md" />
+        <option value="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-2.md" />
+        <option value="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-3.md" />
+        <option value="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-4.md" />
+        <option value="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-5.md" />
+        <option value="$PROJECT_DIR$/_posts/kingbbode/2017-05-10-JENKINS-BUILD.md" />
+        <option value="$PROJECT_DIR$/_posts/kingbbode/2017-06-25-JOOQ.md" />
+        <option value="$PROJECT_DIR$/_posts/kingbbode/2017-07-04-NEXUS-3XX-MAVEN-NPM.md" />
       </list>
     </option>
   </component>
@@ -714,11 +740,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528868215486</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="- 첫글을 남기면 페이지 리다이렉션">
+      <created>1528868289563</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1528868289563</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7454000" />
+    <option name="totallyTimeSpent" value="8047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1089,11 +1122,121 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/jeonghoon/2017-02-24-ZUM-Pilot-jeonghoon.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2016-10-13-TEAMUP-BOT-START.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2016-10-17-TEAMUP-BOT-TIP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-06-25-JOOQ.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-05-10-JENKINS-BUILD.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/ryudung/2017-01-06--ZUM-Pilot-ryudung.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="9" />
             <folding>
               <marker date="1528868210000" expanded="true" signature="4:12" ph="layout: redirect&#10;title...발,신입]" />
             </folding>
@@ -1102,11 +1245,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/jeonghoon/2017-02-24-ZUM-Pilot-jeonghoon.md">
+    <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-07-04-NEXUS-3XX-MAVEN-NPM.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="69" lean-forward="false" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
             <folding />
           </first_editor>
           <second_editor />
