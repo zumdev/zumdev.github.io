@@ -125,10 +125,10 @@
         <entry file="file://$PROJECT_DIR$/_posts/ryudung/2017-01-06--ZUM-Pilot-ryudung.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <first_editor relative-caret-position="150">
+                <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
                 <folding>
-                  <marker date="1528866514000" expanded="true" signature="4:12" ph="layout: redirect&#10;title...발,신입]" />
+                  <marker date="1528866604000" expanded="true" signature="4:12" ph="layout: redirect&#10;title...발,신입]" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -670,11 +670,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528866456042</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="- 첫글을 남기면 페이지 리다이렉션">
+      <created>1528866521382</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1528866521382</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6009000" />
+    <option name="totallyTimeSpent" value="6089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1054,10 +1061,10 @@
     <entry file="file://$PROJECT_DIR$/_posts/ryudung/2017-01-06--ZUM-Pilot-ryudung.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <first_editor relative-caret-position="150">
+            <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
             <folding>
-              <marker date="1528866514000" expanded="true" signature="4:12" ph="layout: redirect&#10;title...발,신입]" />
+              <marker date="1528866604000" expanded="true" signature="4:12" ph="layout: redirect&#10;title...발,신입]" />
             </folding>
           </first_editor>
           <second_editor />
