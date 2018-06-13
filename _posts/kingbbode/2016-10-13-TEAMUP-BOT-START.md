@@ -9,5 +9,5 @@ tag: [spring,boot,bot,teamup]
 ---
 
 <script>
-    location.href="";
+    location.href="https://zuminternet.github.io/TEAMUP-BOT-START/";
 </script>

@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0fbdc05-6c9e-41ee-bdbe-412d8272739f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/kingbbode/2016-10-13-TEAMUP-BOT-START.md" afterPath="$PROJECT_DIR$/_posts/kingbbode/2016-10-13-TEAMUP-BOT-START.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,19 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2016-10-17-TEAMUP-BOT-TIP.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2016-10-17-TEAMUP-BOT-TIP.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2017-02-22-BUG-TRACKING-1.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -120,12 +108,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-07-04-NEXUS-3XX-MAVEN-NPM.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-07-04-NEXUS-3XX-MAVEN-NPM.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2017-07-04-NEXUS-3XX-MAVEN-NPM.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="150">
                 <caret line="10" column="69" lean-forward="false" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-10-13-TEAMUP-BOT-START.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2016-10-13-TEAMUP-BOT-START.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -179,7 +180,6 @@
         <option value="$PROJECT_DIR$/_posts/jojoldu/2016-11-08-NGINX-CACHE-PROBLEM.md" />
         <option value="$PROJECT_DIR$/_posts/jeonghoon/2017-02-24-ZUM-Pilot-jeonghoon.md" />
         <option value="$PROJECT_DIR$/_posts/ryudung/2017-01-06--ZUM-Pilot-ryudung.md" />
-        <option value="$PROJECT_DIR$/_posts/kingbbode/2016-10-13-TEAMUP-BOT-START.md" />
         <option value="$PROJECT_DIR$/_posts/kingbbode/2016-10-17-TEAMUP-BOT-TIP.md" />
         <option value="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-1.md" />
         <option value="$PROJECT_DIR$/_posts/kingbbode/2017-02-22-BUG-TRACKING-2.md" />
@@ -189,6 +189,7 @@
         <option value="$PROJECT_DIR$/_posts/kingbbode/2017-05-10-JENKINS-BUILD.md" />
         <option value="$PROJECT_DIR$/_posts/kingbbode/2017-06-25-JOOQ.md" />
         <option value="$PROJECT_DIR$/_posts/kingbbode/2017-07-04-NEXUS-3XX-MAVEN-NPM.md" />
+        <option value="$PROJECT_DIR$/_posts/kingbbode/2016-10-13-TEAMUP-BOT-START.md" />
       </list>
     </option>
   </component>
@@ -744,11 +745,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528868899379</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="- 첫글을 남기면 페이지 리다이렉션">
+      <created>1528868947715</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1528868947715</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8095000" />
+    <option name="totallyTimeSpent" value="8199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1130,17 +1138,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2016-10-13-TEAMUP-BOT-START.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2016-10-17-TEAMUP-BOT-TIP.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1247,6 +1244,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="150">
             <caret line="10" column="69" lean-forward="false" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/kingbbode/2016-10-13-TEAMUP-BOT-START.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
