@@ -8,7 +8,6 @@ nickname: jeonghoon
 tag: [spring,boot,pilot,신입,zum,줌인터넷,board,게시판,social,소셜]
 ---
 
-
 <script>
-  location.href="https://zuminternet.github.io/ZUM-Pilot-jeonghoon/";
+    location.href="https://zuminternet.github.io/ZUM-Pilot-jeonghoon/";
 </script>
